@@ -135,3 +135,7 @@ def get_course_info(html):
 крупных проектов. Это один из базовых приемов, нужно уверенно им владеть.
 
 
+
+
+![image](https://dvmn.org/filer/canonical/1594117412/678/)
+
